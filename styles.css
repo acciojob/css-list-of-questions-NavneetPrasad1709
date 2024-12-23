@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+/* styles.css */
+body {
+  background-color: #f0f0f0; /* Optional background for the page */
+ margin: 0;
+  padding: 20px;
+}
+
+.questions {
+  background-color: #f8fffe;
+  height: 50px;
+  margin-top: 20px;
+  padding: 15px;
+  max-width: 600px;
+  
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional for better appearance */
+}
+
+.questions p {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
